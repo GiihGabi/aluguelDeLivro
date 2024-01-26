@@ -1,0 +1,12 @@
+.ancora_index {
+    margin-top: 5em;
+    background-color: #006bb7;
+    padding: 2em;
+    border-radius: 2em;
+    color: white;
+}
+
+#ancora_index {
+    display: flex;
+    justify-content: center;
+}
